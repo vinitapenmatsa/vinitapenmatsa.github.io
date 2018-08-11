@@ -14,3 +14,10 @@ html { overflow-y: scroll; }
         letter-spacing: 0.35em;
         margin-bottom: 0.4em;
 }
+
+.social-links-row{
+  padding-bottom: 40px;
+}
+.social-links {
+    font-size: 50px;
+}
