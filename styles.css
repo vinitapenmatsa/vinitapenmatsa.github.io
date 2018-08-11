@@ -1,0 +1,16 @@
+html { overflow-y: scroll; }
+
+.social-boxes {
+    width: 300px;
+    height: 80px;
+    border: 10px solid grey;
+    box-sizing: border-box;
+}
+
+.name-title p {
+        font-size: 20px;
+        text-transform: uppercase;
+        font-weight: 200;
+        letter-spacing: 0.35em;
+        margin-bottom: 0.4em;
+}
